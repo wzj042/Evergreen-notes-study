@@ -1,5 +1,5 @@
 {
   "attachmentFolderPath": "引用图片",
-  "useMarkdownLinks": false,
+  "useMarkdownLinks": true,
   "alwaysUpdateLinks": true
 }
