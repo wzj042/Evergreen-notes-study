@@ -15,9 +15,6 @@ modified: 2024-02-17 23:20:39
 
 从[README](README.md)是第一个常青笔记，而第二个则应是关于[常青笔记的介绍](常青笔记.md)了。
 
-> 使用的 `[[]]`是双链笔记的语法
-
-
 为避免疏漏，每篇文章若有来源都会在文章开头通过YAML Header的形式添加来源链接（大部分应该是译文的链接）。
 
 > 事实上这很像是搭建个人wiki, 各种笔记链接跳来跳去。
@@ -30,8 +27,10 @@ modified: 2024-02-17 23:20:39
 - fuzzy-chinese-pinyin 允许使用拼音模糊搜索（在快速切换和命令面板中很好使）
 - Word Splitting for Simplified Chinese in Edit Mode and Vim Mode 使双击分词更符合中文
 - surfing 内置浏览器避免频繁切换应用
-- better-search-views 搜索时的相邻内容会被正确渲染显示
 - linter 格式化、自动添加header
+- git 敲命令手动同步也太累了
+-  better-search-views 搜索时的相邻内容会被正确渲染显示
+
 
 ## 参考
 
