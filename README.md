@@ -29,6 +29,7 @@ modified: 2024-02-17 23:20:39
 - surfing 内置浏览器避免频繁切换应用
 - linter 格式化、自动添加header
 - git 敲命令手动同步也太累了
+	- 装了插件之后，`git commit all change` + 填msg + `git push` 虽然也没简单多少就是了。
 -  better-search-views 搜索时的相邻内容会被正确渲染显示
 
 
