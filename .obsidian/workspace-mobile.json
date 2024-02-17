@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "632aad239919dd19",
+    "type": "split",
+    "children": [
+      {
+        "id": "420e42f80f800485",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08749fb8c45eef77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "考纲MOC.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f57f7ede00b85c2e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "dfbd6a33f7cb71a3",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "1bbf4001f037e7e0",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "6d797871def0144e",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "3bc25967e0bfefd0",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "bef5a7a23ca41f5e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "d6bf62227934e008",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "考纲MOC.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "cf77b34e99aba722",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "考纲MOC.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "6b1e77e09fabb60f",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "考纲MOC.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "fuzzy-chinese-pinyin:FuzzySearch": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "08749fb8c45eef77",
+  "lastOpenFiles": [
+    "例题/06/E-0212-01.md",
+    "考纲MOC.md",
+    "README.md",
+    "公式结论/04不定积分/第一类换元法.md",
+    "错题/07/W-0210-02.md",
+    "知识点/02导数与微分/变限积分的导数.md",
+    "错题/待处理/W-0214-01.md",
+    "公式结论/01函数与极限/极限/求解极限常用结论.md",
+    "公式结论/01函数与极限/对数函数常用结论.md",
+    "知识点/01函数与极限/幂函数.md",
+    "知识点/01函数与极限/三角函数.md",
+    "例题/08/E-0203-02.md",
+    "例题/07/E-0205-01.md",
+    "公式结论/01函数与极限/极限/等价无穷小.md",
+    "例题/08/E-0203-03.md",
+    "错题/未归档",
+    "错题/08/W-0202-01.md",
+    "错题/08",
+    "错题/07/W-0205-01.md",
+    "错题/07",
+    "知识点/02导数与微分",
+    "知识点/01函数与极限/极限/曲线的渐近线.md",
+    "知识点/01函数与极限/定义域.md",
+    "知识点/01函数与极限/奇偶性.md",
+    "知识点/01函数与极限/对数函数.md",
+    "知识点/01函数与极限/抽象函数.md",
+    "知识点/01函数与极限/连续和函数间断点.md",
+    "知识点/01函数与极限/函数与极限MOC.md",
+    "知识点/01函数与极限/反函数.md",
+    "知识点/01函数与极限/指数函数.md",
+    "知识点/01函数与极限/极限",
+    "知识点/01函数与极限",
+    "公式结论/02导数与微分",
+    "公式结论/01函数与极限/极限",
+    "公式结论/01函数与极限",
+    "例题/07"
+  ]
+}

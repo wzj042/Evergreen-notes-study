@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "48eccc9b91a0b640",
+    "type": "split",
+    "children": [
+      {
+        "id": "6bc34ce8c314c9df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f36077e7c8234909",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "30766d9c4a67aac2",
+    "type": "split",
+    "children": [
+      {
+        "id": "65a227fafc39b998",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79c48e886f8b2c52",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4a04f467ba80022b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": " ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2b03d2fbc2fa99d2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "143d9e815e29f33e",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-tab-tree",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 213.5
+  },
+  "right": {
+    "id": "91209b9af7865151",
+    "type": "split",
+    "children": [
+      {
+        "id": "50b25c3b7c012fc4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99b02ff0ac51f246",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e809a438adb2ad50",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ffb4af80ea77d3c9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cd466a4cc99a1ba1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 234.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "fuzzy-chinese-pinyin:FuzzySearch": false
+    }
+  },
+  "active": "79c48e886f8b2c52",
+  "lastOpenFiles": [
+    "LICENSE",
+    "Evergreen-notes-study/LICENSE",
+    "Evergreen-notes-study",
+    "知识点/09多元微分法/全微分.md",
+    "引用图片/full-integral animation.gif",
+    "引用图片/ezgif.com-avif-maker.avifs",
+    "知识点/09多元微分法/examle.html.md",
+    "知识点/09多元微分法/examle.html",
+    "知识点/09多元微分法/偏导数.md",
+    "原始笔记/09 多元函数微分法及其运用.md",
+    "引用图片/Snipaste_2024-02-17_22-04-56.png",
+    "知识点/09多元微分法/多元函数.md",
+    "引用图片/Snipaste_2024-02-17_21-48-40.png",
+    "例题/未处理/E-0217-02.md",
+    "引用图片/Snipaste_2024-02-17_21-47-00.png",
+    "例题/未处理/未命名.md",
+    "引用图片/Snipaste_2024-02-17_21-43-57.png",
+    "知识点/10重积分/重积分MOC.md",
+    "知识点/09多元微分法",
+    "考纲MOC.md",
+    "知识点/10重积分/二重对称性.md",
+    "原始笔记/10 重积分.md",
+    "引用图片/Snipaste_2024-02-17_20-25-59.png",
+    "知识点/10重积分/极坐标系下的二重积分计算.md",
+    "引用图片/Snipaste_2024-02-17_20-20-02.png",
+    "引用图片/Snipaste_2024-02-17_19-48-11.png",
+    "引用图片/Snipaste_2024-02-17_19-44-35.png",
+    "引用图片/Snipaste_2024-02-17_19-44-24.png",
+    "知识点/10重积分/极坐标.md",
+    "原始笔记/12 无穷级数.md",
+    "公式结论/10重积分/交换积分次序.md",
+    "公式结论/10重积分/超越积分.md",
+    "公式结论/10重积分/二重积分计算/直角坐标系下二重积分运算.md",
+    "公式结论/10重积分/重积分求积分区域面积.md",
+    "公式结论/10重积分/重积分估值定理.md",
+    "公式结论/10重积分/二重积分计算",
+    "公式结论/10重积分/重积分比较定理.md",
+    "例题/未处理/E-0217-01.md",
+    "例题/未处理/E-0216-08.md",
+    "公式结论/05定积分/定积分求面积/定积分求平面面积.md",
+    "知识点/面积方程.md",
+    "例题/未处理/E-0216-05.md",
+    "公式结论/10重积分",
+    "知识点/10重积分",
+    "公式结论/05定积分/定积分求面积",
+    "公式结论/05定积分",
+    "未命名.canvas"
+  ]
+}
