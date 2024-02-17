@@ -1,6 +1,4 @@
 ---
-aliases:
-  - 起点
 source: https://github.com/wzj042/Evergreen-notes-study
 created: 2024-02-17 22:47:31
 modified: 2024-02-17 23:20:39
