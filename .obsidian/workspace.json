@@ -4,8 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "6bc34ce8c314c9df",
+        "id": "1a015c5ddedec005",
         "type": "tabs",
+        "dimension": 54.507042253521135,
+        "children": [
+          {
+            "id": "8c000abbdc32ed1b",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://www.zhihu.com/logout"
+              }
+            }
+          },
+          {
+            "id": "70e0dfc0e95b695a",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://zhuanlan.zhihu.com/p/428784607"
+              }
+            }
+          },
+          {
+            "id": "0a359d68f9ba1895",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://zhuanlan.zhihu.com/p/427460683"
+              }
+            }
+          },
+          {
+            "id": "f2415f357e6944b2",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://pmthinking.com/evergreennotes"
+              }
+            }
+          },
+          {
+            "id": "30de62be527c8f94",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://zhuanlan.zhihu.com/p/423996524"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "e2f7f574877b8692",
+        "type": "tabs",
+        "dimension": 45.49295774647887,
         "children": [
           {
             "id": "f36077e7c8234909",
@@ -13,7 +72,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "常青笔记.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -78,7 +137,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 213.5
+    "width": 213.5,
+    "collapsed": true
   },
   "right": {
     "id": "91209b9af7865151",
@@ -94,7 +154,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +170,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +191,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -157,7 +213,7 @@
       "fuzzy-chinese-pinyin:FuzzySearch": false
     }
   },
-  "active": "f36077e7c8234909",
+  "active": "0a359d68f9ba1895",
   "lastOpenFiles": [
     "常青笔记.md",
     "README.md",
