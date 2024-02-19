@@ -137,8 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 213.5,
-    "collapsed": true
+    "width": 213.5
   },
   "right": {
     "id": "91209b9af7865151",
@@ -154,6 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "常青笔记.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,6 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "常青笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +192,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "常青笔记.md"
+              }
             }
           }
         ],
@@ -213,10 +216,10 @@
       "fuzzy-chinese-pinyin:FuzzySearch": false
     }
   },
-  "active": "0a359d68f9ba1895",
+  "active": "f36077e7c8234909",
   "lastOpenFiles": [
-    "常青笔记.md",
     "README.md",
+    "常青笔记.md",
     "conflict-files-obsidian-git.md",
     "LICENSE",
     "Evergreen-notes-study/LICENSE",

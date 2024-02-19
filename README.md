@@ -1,13 +1,13 @@
 ---
 source: https://github.com/wzj042/Evergreen-notes-study
 created: 2024-02-17 22:47:31
-modified: 2024-02-17 23:20:39
+modified: 2024-02-20 00:05:33
 ---
 
 # README
 
 
-使用obsidian软件开启的常青笔记。
+这一系列文本为使用obsidian软件编写的常青笔记。
 
 现阶段主要用于学习常青笔记写作，通过“写常青笔记”的方式学习写常青笔记。
 
