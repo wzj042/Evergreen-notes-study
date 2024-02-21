@@ -6,18 +6,8 @@
       {
         "id": "1a015c5ddedec005",
         "type": "tabs",
-        "dimension": 54.50704225352113,
+        "dimension": 57.36245954692557,
         "children": [
-          {
-            "id": "8c000abbdc32ed1b",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://www.zhihu.com/logout"
-              }
-            }
-          },
           {
             "id": "70e0dfc0e95b695a",
             "type": "leaf",
@@ -39,32 +29,32 @@
             }
           },
           {
-            "id": "f2415f357e6944b2",
+            "id": "2bc5ca331b05239a",
             "type": "leaf",
             "state": {
               "type": "surfing-view",
               "state": {
-                "url": "https://pmthinking.com/evergreennotes"
+                "url": "https://zhuanlan.zhihu.com/p/416319260"
               }
             }
           },
           {
-            "id": "30de62be527c8f94",
+            "id": "92c280d44f933d68",
             "type": "leaf",
             "state": {
               "type": "surfing-view",
               "state": {
-                "url": "https://zhuanlan.zhihu.com/p/423996524"
+                "url": "https://zhuanlan.zhihu.com/p/441969379"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "e2f7f574877b8692",
         "type": "tabs",
-        "dimension": 45.49295774647886,
+        "dimension": 42.637540453074436,
         "children": [
           {
             "id": "f36077e7c8234909",
@@ -137,7 +127,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 213.5
+    "width": 213.5,
+    "collapsed": true
   },
   "right": {
     "id": "91209b9af7865151",
@@ -153,7 +144,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "常青笔记.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +160,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "常青笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,9 +181,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "常青笔记.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -216,10 +203,10 @@
       "fuzzy-chinese-pinyin:FuzzySearch": false
     }
   },
-  "active": "f36077e7c8234909",
+  "active": "92c280d44f933d68",
   "lastOpenFiles": [
-    "README.md",
     "常青笔记.md",
+    "README.md",
     "conflict-files-obsidian-git.md",
     "LICENSE",
     "Evergreen-notes-study/LICENSE",
