@@ -6,7 +6,7 @@
       {
         "id": "1a015c5ddedec005",
         "type": "tabs",
-        "dimension": 57.36245954692557,
+        "dimension": 57.362459546925564,
         "children": [
           {
             "id": "70e0dfc0e95b695a",
@@ -14,47 +14,16 @@
             "state": {
               "type": "surfing-view",
               "state": {
-                "url": "https://zhuanlan.zhihu.com/p/428784607"
-              }
-            }
-          },
-          {
-            "id": "0a359d68f9ba1895",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://zhuanlan.zhihu.com/p/427460683"
-              }
-            }
-          },
-          {
-            "id": "2bc5ca331b05239a",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://zhuanlan.zhihu.com/p/416319260"
-              }
-            }
-          },
-          {
-            "id": "92c280d44f933d68",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://zhuanlan.zhihu.com/p/441969379"
+                "url": "https://notes.andymatuschak.org/z9Uq4yzBT1QaBU8twwyvm7P"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "e2f7f574877b8692",
         "type": "tabs",
-        "dimension": 42.637540453074436,
+        "dimension": 42.63754045307443,
         "children": [
           {
             "id": "f36077e7c8234909",
@@ -62,14 +31,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "常青笔记.md",
+                "file": "日志.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "20b7904733cbaf24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "将知识和记忆建立练习.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -127,8 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 213.5,
-    "collapsed": true
+    "width": 213.5
   },
   "right": {
     "id": "91209b9af7865151",
@@ -144,6 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "将知识和记忆建立练习.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,6 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "将知识和记忆建立练习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +165,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "将知识和记忆建立练习.md"
+              }
             }
           }
         ],
@@ -203,8 +189,10 @@
       "fuzzy-chinese-pinyin:FuzzySearch": false
     }
   },
-  "active": "92c280d44f933d68",
+  "active": "20b7904733cbaf24",
   "lastOpenFiles": [
+    "将知识和记忆建立练习.md",
+    "日志.md",
     "常青笔记.md",
     "README.md",
     "conflict-files-obsidian-git.md",
@@ -246,8 +234,6 @@
     "公式结论/10重积分/二重积分计算",
     "公式结论/10重积分/重积分比较定理.md",
     "例题/未处理/E-0217-01.md",
-    "例题/未处理/E-0216-08.md",
-    "公式结论/05定积分/定积分求面积/定积分求平面面积.md",
     "公式结论/10重积分",
     "知识点/10重积分",
     "公式结论/05定积分/定积分求面积",
